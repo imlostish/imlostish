@@ -20,6 +20,19 @@ I’m a passionate developer with a strong curiosity for how things work — fro
 - 🐧 Expanding my Linux & CLI superpowers
 - 🧠 Reading & self-improvement, including communication and productivity
 
+## 📚 I’m Learning
+
+- 🧠 Clean architecture, system design, testing and documentation
+- 💾 Database design (PostgreSQL, SurrealDB, Redis)
+- 🌐 DevOps basics (CI/CD, Docker, VPS self-hosting)
+- 🧱 Rust & Go for backend APIs
+- ✨ Design systems and developer tooling
+
+## 🧩 Fun Projects Coming Soon
+
+- **[imlosti.sh](https://imlosti.sh)** content, services, and community tools — built with Next.js, Docker, and more.
+- **Woka** — a self-hostable platform for business management and digital presence.
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Frameworks
@@ -50,18 +63,9 @@ I’m a passionate developer with a strong curiosity for how things work — fro
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
-## 📚 I’m Learning
+### 📊 Stats
 
-- 🧠 Clean architecture, system design, testing and documentation
-- 💾 Database design (PostgreSQL, SurrealDB, Redis)
-- 🌐 DevOps basics (CI/CD, Docker, VPS self-hosting)
-- 🧱 Rust & Go for backend APIs
-- ✨ Design systems and developer tooling
-
-## 🧩 Fun Projects Coming Soon
-
-- **[imlosti.sh](https://imlosti.sh)** content, services, and community tools — built with Next.js, Docker, and more.
-- **Woka** — a self-hostable platform for business management and digital presence.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imlostish&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💬 Let's Connect
 
@@ -79,21 +83,3 @@ I love supporting other creators who inspire me with their creativity and tech p
 - [Aiden Bai](https://x.com/aidenybai)
 - [Jarred Summer](https://x.com/jarredsumner)
 - [Guillermo Rauch (rauchg)](https://x.com/rauchg)
-
-## 📊 Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=imlostish&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=imlostish&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imlostish&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-contributor-stats.vercel.app/api?username=imlostish&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## Roadmap.sh Stats
-
-[![roadmap.sh](https://roadmap.sh/card/tall/65a7fe720c54812283f5a840?variant=dark&roadmaps=full-stack%2Cdocker%2Crust%2Cgolang)](https://roadmap.sh)
-
-## Daily.dev Stats
-
-<a href="https://app.daily.dev/losti"><img src="./devcard.png" width="356" alt="Lost's Dev Card"/></a>
